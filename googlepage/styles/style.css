@@ -1,0 +1,64 @@
+/*.image {
+
+	margin: auto;
+	padding: auto;
+	padding-left: 530px;
+	padding-top: 210px;
+	width: 50%;
+	
+
+}
+*/
+.block {
+	text-align: center;
+	
+
+	width: 100px;
+    height: 300px;
+
+    position:absolute;
+    top:25%;
+    left:42%;
+}
+
+.searchbar{
+		margin-left: -180px;
+		padding-top: 20px;
+		text-align: center;
+		width: 100px;
+}
+
+.champ {
+
+	padding: 12px 20px;
+	margin: 8px 0;
+	border-color: white; 
+	box-shadow: 2px 2px 0px grey;
+	font-size: 25px;
+	width: 600px;
+
+}
+
+.buttons {
+
+	display: inline-flex;
+	position:absolute;
+    top:70%;
+    left:5%;
+	
+}
+
+.search {
+	
+	margin-right: 20px;
+	margin-top: 20px;
+	width: 120px;
+	height: 40px;
+}
+
+.lucky {
+
+	margin-top: 20px;
+	width: 120px;
+	height: 40px;
+}
